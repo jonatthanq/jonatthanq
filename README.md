@@ -16,10 +16,10 @@
  
  
 <div> 
- 
-  <a href="https://instagram.com/jonatthanquintino" target="_blank">
-  <a href="mailto:jonathanquintino@outlook.com"></a>
-  <a href="linkedin:Jonathan Quintino"></a>
+
+## Instagram: jonatthanquintino
+## linkedin: Jonathan Quintino
+## e-mail: jonathanquintino@outlook.com
 
 </div>
 
